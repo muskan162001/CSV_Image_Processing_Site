@@ -1,0 +1,4 @@
+serialNumber,Product Name,Input Image Urls
+1,Product A,"http://example.com/image1,http://example.com/image2"
+2,Product B,"http://example.com/image3,http://example.com/image4"
+3,Product C,"http://example.com/image5,http://example.com/image6"
